@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tangxg2017.github.io/sitemap.xml

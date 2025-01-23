@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>糖小果资源站</title>
+    <link href="https://tangxg2017.github.io/feed.xml" rel="self" />
+    <link href="https://tangxg2017.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>糖小果</name>
+    </author>
+    <id>https://tangxg2017.github.io</id>
+
+</feed>
