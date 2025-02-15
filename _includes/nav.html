@@ -17,6 +17,21 @@
       {% else %}
       <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
       {% endif %}
+      <!-- 二级分类 -->
+          {% if nav.children %}
+            <ul class="sub-menu">
+              {% for child in nav.children %}
+                <li>
+                  {% if child.url contains 'http://' or child.url contains 'https://' %}
+                    <a href="{{ child.url }}">{{ child.name }}</a>
+                  {% else %}
+                    <a href="{{ site.baseurl }}{{ child.url }}">{{ child.name }}</a>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
       {% endfor %}
     </nav>
   </div>
