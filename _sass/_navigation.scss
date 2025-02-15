@@ -1,9 +1,13 @@
-// _navigation.scss
+// Flexbox 布局
+.navlist nav {
+  display: flex; // 启用 Flexbox 布局
+  flex-wrap: wrap; // 允许换行
+  align-items: center; // 垂直居中
+  gap: 20px; // 一级分类项之间的间距
+}
 
 .nav-item {
-  position: relative; // 使子菜单相对于父元素定位
-  display: inline-block; // 让一级分类项在同一行显示
-  margin-right: 20px; // 一级分类项之间的间距
+  position: relative; // 使二级分类相对于父元素定位
 }
 
 .nav-item a {
