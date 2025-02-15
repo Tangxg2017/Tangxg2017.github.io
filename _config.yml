@@ -9,6 +9,13 @@ navigation:
     url: /
   - name: 分类
     url: /tags
+    children:
+      - name: 安卓
+        url: /tags/Android
+      - name: PC
+        url: /tags/PC
+      - name: 系统
+        url: /tags/Windows
   - name: 关于
     url: /about
 
