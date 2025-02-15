@@ -1,0 +1,20 @@
+// _navigation.scss
+
+.sub-menu {
+  padding-left: 20px; // 二级分类的缩进
+  list-style-type: none; // 去除默认的列表符号
+  margin-top: 5px; // 与一级分类的间距
+
+  li {
+    margin: 5px 0; // 每个二级分类项的间距
+  }
+
+  a {
+    color: #333; // 链接颜色
+    text-decoration: none; // 去除下划线
+
+    &:hover {
+      color: #007bff; // 鼠标悬停时的颜色
+    }
+  }
+}
