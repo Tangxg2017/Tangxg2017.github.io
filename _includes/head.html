@@ -8,19 +8,21 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <!-- 引入主样式文件 -->
+  <!-- 核心样式文件 -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-  <!-- 引入导航栏样式文件 -->
+  
+  <!-- 导航栏及二级分类样式 -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css" />
 
+  <!-- RSS 订阅和网站图标 -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   <link rel="shortcut icon" href="{{ site.favicon }}">
 
-  <!-- Gitalk 评论系统（可选） -->
+  <!-- 可选功能：Gitalk 评论系统 -->
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css"> -->
   <!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script> -->
 
-  <!-- Typekit 字体加载 -->
+  <!-- Typekit 字体加载脚本 -->
   <script>
     (function(d) {
       var config = {
@@ -32,5 +34,6 @@
     })(document);
   </script>
 
+  <!-- Jekyll Now 生成标记 -->
   <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 </head>
