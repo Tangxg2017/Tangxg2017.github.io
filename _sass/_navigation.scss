@@ -14,7 +14,7 @@
   color: #333;
   text-decoration: none;
   font-weight: bold;
-  padding: 8px 12px; // 增加内边距，优化点击区域
+  padding: 8px 12px; // 减少内边距
 }
 
 .nav-item a:hover {
@@ -24,7 +24,8 @@
 .sub-menu {
   position: absolute;
   top: 100%; // 确保二级菜单紧贴一级菜单下方
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%); // 微调水平位置
   padding: 8px 0; // 增加内边距
   margin: 0; // 移除默认 margin
   list-style: none;
