@@ -8,11 +8,11 @@ navigation:
   - name: 首页
     url: /
   - name: 安卓
-    url: /tags/Android
-  - name: PC
-    url: /tags/PC
+    url: /tags
   - name: 系统
-    url: /tags/Windows
+    url: /tags
+  - name: PC
+    url: /tags
   - name: 关于
     url: /about
 
