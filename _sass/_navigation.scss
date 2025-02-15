@@ -1,20 +1,45 @@
 // _navigation.scss
 
+.nav-item {
+  position: relative; // 使子菜单相对于父元素定位
+  display: inline-block; // 让一级分类项在同一行显示
+  margin-right: 20px; // 一级分类项之间的间距
+}
+
+.nav-item a {
+  color: #333; // 一级分类链接颜色
+  text-decoration: none; // 去除下划线
+  font-weight: bold; // 加粗字体
+}
+
+.nav-item a:hover {
+  color: #007bff; // 鼠标悬停时的颜色
+}
+
 .sub-menu {
-  padding-left: 20px; // 二级分类的缩进
+  position: absolute; // 使二级分类相对于父元素定位
+  top: 100%; // 将二级分类放在一级分类下方
+  left: 0; // 对齐一级分类的左侧
+  padding-left: 0; // 去除默认的 padding
   list-style-type: none; // 去除默认的列表符号
-  margin-top: 5px; // 与一级分类的间距
+  background-color: #fff; // 背景颜色
+  border: 1px solid #ddd; // 添加边框
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // 添加阴影
+  z-index: 1000; // 确保二级分类在最上层
+  min-width: 150px; // 设置最小宽度
+}
 
-  li {
-    margin: 5px 0; // 每个二级分类项的间距
-  }
+.sub-menu li {
+  margin: 0; // 去除默认的 margin
+}
 
-  a {
-    color: #333; // 链接颜色
-    text-decoration: none; // 去除下划线
+.sub-menu a {
+  display: block; // 让链接占据整个宽度
+  padding: 8px 16px; // 增加内边距
+  color: #333; // 二级分类链接颜色
+  text-decoration: none; // 去除下划线
+}
 
-    &:hover {
-      color: #007bff; // 鼠标悬停时的颜色
-    }
-  }
+.sub-menu a:hover {
+  background-color: #f8f9fa; // 鼠标悬停时的背景颜色
 }
