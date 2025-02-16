@@ -2,7 +2,7 @@
 layout: post
 title: "Android Breezy Weather(微风天气) v5.4.2"
 date:   2025-2-16
-tags: [notice]
+tags: [安卓]
 comments: true
 author: Tangxg2017
 ---
