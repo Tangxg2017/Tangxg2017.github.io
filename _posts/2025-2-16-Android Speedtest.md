@@ -29,7 +29,7 @@ Speedtest是强大的安卓测速软件，拥有全球测速节点，准确还�
 
 ## 软件截图
 
-(https://tangxg2017.github.io/images/speedtest-25-02-16.jpg)
+(https://tangxg2017.github.io/images/speedtest-25-02-16.png)
 
 ## 更新日志
 
