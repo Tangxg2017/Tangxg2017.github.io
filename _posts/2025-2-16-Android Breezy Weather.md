@@ -54,4 +54,4 @@ author: Tangxg2017
 
 ## 更多资讯
 
-请关注微信公众号： ![微风预览](https://tangxg2017.github.io/images/wechat.png)
+请关注微信公众号： ![微信预览](https://tangxg2017.github.io/images/wechat.png)
