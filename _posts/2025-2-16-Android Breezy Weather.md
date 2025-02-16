@@ -48,5 +48,10 @@ author: Tangxg2017
 - 界面优化：可自定义主屏小部件透明度/新增天气数据实验室入口
 
 ## 下载地址
+
 - https://drive.uc.cn/s/7b021fc5994f4 提取码：9M8H
 - https://pan.quark.cn/s/7a8932002aae 提取码：g9sm
+
+## 更多资讯
+
+请关注微信公众号： ![微风预览](https://tangxg2017.github.io/images/wechat.png)
