@@ -2,7 +2,7 @@
 layout: post
 title: "Android Speedtest网速测试"
 date:   2025-2-16
-tags: [notice]
+tags: [安卓]
 comments: true
 author: Tangxg2017
 ---
