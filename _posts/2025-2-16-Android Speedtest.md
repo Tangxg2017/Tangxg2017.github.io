@@ -37,5 +37,10 @@ Speedtest是强大的安卓测速软件，拥有全球测速节点，准确还�
 - 界面功能调整：可以访问特定功能设置在菜单中查看测试结果
 
 ## 下载地址
+
 - https://pan.quark.cn/s/cf893da5f9b7 提取码：vtUL
 - https://drive.uc.cn/s/9a1019a0059a4 提取码：YSW3
+  
+## 更多资讯
+
+请关注微信公众号： ![微风预览](https://tangxg2017.github.io/images/wechat.png)
