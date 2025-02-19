@@ -34,6 +34,7 @@ Speedtest是强大的安卓测速软件，拥有全球测速节点，准确还�
 ## 更新日志
 
 - 新增视频质量测试，测试当前网速能播放的视频流最高比特率
+  
 - 界面功能调整：可以访问特定功能设置在菜单中查看测试结果
 
 ## 下载地址
@@ -43,4 +44,11 @@ Speedtest是强大的安卓测速软件，拥有全球测速节点，准确还�
   
 ## 更多资讯
 
-请关注微信公众号： ![微信预览](https://tangxg2017.github.io/images/wechat.png)
+更多资讯请关注微信公众号： 糖果黑科技
+
+![微信预览](https://tangxg2017.github.io/images/wechat.png)
+
+## 负责声明
+
+  ![切换预览](https://tangxg2017.github.io/images/shengming.png)
+  
