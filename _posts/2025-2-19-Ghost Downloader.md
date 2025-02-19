@@ -33,7 +33,7 @@ Ghost Downloader 是一款高效、多功能的下载管理工具,旨在为用�
   
 ## 软件截图
 
-![Downloader预览](https://tangxg2017.github.io/images/Ghost Downloader-25-02-19.png)
+![Downloader预览](https://tangxg2017.github.io/images/Ghost-Downloader-25-02-19.png)
 
 ## 更新日志
 
