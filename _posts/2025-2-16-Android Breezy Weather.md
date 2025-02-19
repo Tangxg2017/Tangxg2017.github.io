@@ -54,4 +54,10 @@ author: Tangxg2017
 
 ## 更多资讯
 
-请关注微信公众号： ![微信预览](https://tangxg2017.github.io/images/wechat.png)
+更多资讯请关注微信公众号： 糖果黑科技
+
+![微信预览](https://tangxg2017.github.io/images/wechat.png)
+
+## 负责声明
+
+![声明预览](https://tangxg2017.github.io/images/shengming.png)
