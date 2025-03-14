@@ -13,6 +13,8 @@ navigation:
     url: /tags
   - name: 工具
     url: /tags
+  - name: 教程
+    url: /tags
   - name: 关于
     url: /about
 
